@@ -1,9 +1,12 @@
 {
-  "name": "swdoc",
+  "name": "sanzo-wada",
   "version": "1.0.0",
   "description": "sanzo wada dicitionary of color",
   "main": "index.js",
-  "repository": "https://github.com/dblodorn/sanzo-wada",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quibaritaenperdresatrompe/sanzo-wada"
+  },
   "author": "Dain Blodorn Kim",
   "license": "ISC",
   "private": true,
